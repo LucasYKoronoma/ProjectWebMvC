@@ -1,0 +1,25 @@
+﻿Build started at 13:04...
+1>------ Build started: Project: SalesWebMvc, Configuration: Debug Any CPU ------
+1>C:\Program Files\dotnet\sdk\8.0.303\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.EolTargetFrameworks.targets(32,5): warning NETSDK1138: The target framework 'netcoreapp2.1' is out of support and will not receive security updates in the future. Please refer to https://aka.ms/dotnet-core-support for more information about the support policy.
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1902: Package 'Microsoft.AspNetCore.App' 2.1.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-23cv-jh4v-vffm
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1903: Package 'Microsoft.AspNetCore.App' 2.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-655q-9gvg-q4cm
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1903: Package 'Microsoft.AspNetCore.App' 2.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-6px8-22w5-w334
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1902: Package 'Microsoft.AspNetCore.App' 2.1.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-cgpw-2gph-2r9g
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1903: Package 'Microsoft.AspNetCore.App' 2.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-f8qx-mjcq-wfgx
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1903: Package 'Microsoft.AspNetCore.App' 2.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-hxrm-9w7p-39cc
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1903: Package 'Microsoft.AspNetCore.App' 2.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-j378-6mmw-hqfr
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1902: Package 'Microsoft.AspNetCore.App' 2.1.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-prrf-397v-83xh
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1903: Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-2xjx-v99w-gqf3
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1902: Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-3gp9-h8hw-pxpw
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1903: Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-3w5p-jhp5-c29q
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1902: Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-5633-f33j-c6f7
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1903: Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-6px8-22w5-w334
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1903: Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-g5vf-38cp-4px9
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1902: Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-vgwq-hfqc-58wv
+1>D:\Projetos\SalesWebMvc\SalesWebMvc\SalesWebMvc.csproj : warning NU1902: Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-x5qj-9vmx-7g6g
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>SalesWebMvc -> D:\Projetos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.dll
+1>SalesWebMvc -> D:\Projetos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
+1>Done building project "SalesWebMvc.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 13:04 and took 03,013 seconds ==========
